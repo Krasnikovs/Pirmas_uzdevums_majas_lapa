@@ -1,1 +1,25 @@
+<status>
+    back {
+        background-color: white;
+    }
+    h1 :: first-letter {
+        color: blue;
+    }
+    h1::secon-letter {
+        color: red;
+    }
+    h1 :: third-letter {
+        color: yellow;
+    }
+    h1 :: fourth-letter {
+        color: blue;
+    }
+    h1 :: fifth-letter {
+        color: green;
+    }
+    h1 :: sixth-letter {
+        color: red;
+    }
+</status>
+
 <h1>Google</h1>
