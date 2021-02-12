@@ -1,0 +1,1 @@
+# Pirmas_uzdevums_majas_lapa
